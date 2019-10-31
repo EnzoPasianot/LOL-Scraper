@@ -1,1 +1,1 @@
-# LOL-Scraper
+# LOL-Scrapper
